@@ -2,6 +2,8 @@
 
 // Change DB name in /lib/database/mongoose
 
+// Make a .env.local file in root for the following values: 
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 
