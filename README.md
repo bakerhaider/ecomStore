@@ -1,3 +1,7 @@
+// Run npm i
+
+// Change DB name in /lib/database/mongoose
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 
@@ -9,5 +13,4 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
 MONGODB_URL=
 
 WEBHOOK_SECRET=
-# UpdatedLinkhub
-# UpdatedLinkhub
+
