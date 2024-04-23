@@ -3,13 +3,12 @@ import {
   SignOutButton,
   SignedIn,
   SignedOut,
-  UserButton,
 } from '@clerk/nextjs';
 import React from 'react';
 
 const Home = () => {
   return (
-    <div className="text-white">
+    <div className="text-white bg-black">
       <SignedIn>
         <SignOutButton>out</SignOutButton>
       </SignedIn>
